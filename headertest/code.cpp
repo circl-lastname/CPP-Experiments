@@ -1,8 +1,8 @@
 #include <header.hpp>
 
 int main() {
-  log("Hello");
-  log("World");
+  bruh::log("Hello");
+  bruh::log("World");
 
   return 0;
 }
